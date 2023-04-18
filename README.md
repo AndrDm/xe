@@ -1,5 +1,7 @@
 # Some experiments with X-Ray images
 
+![](assets/ostern2023.png)
+
 ## Requirements and Dependencies
 
 * LabVIEW 2023Q1 64-bit
