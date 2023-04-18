@@ -55,7 +55,8 @@
 		<Item Name="CLAHE (OpenCV).vi" Type="VI" URL="../Experiments/Image Contrast Enhancement/CLAHE (OpenCV).vi"/>
 		<Item Name="Convolutions Tester.vi" Type="VI" URL="../Experiments/Image Sharpness Enhancement/Convolutions Tester.vi"/>
 		<Item Name="Unsharp Mask (OpenCV).vi" Type="VI" URL="../Experiments/Image Sharpness Enhancement/Unsharp Mask (OpenCV).vi"/>
-		<Item Name="Wavelets Bands Explorer.vi" Type="VI" URL="../Utilities/Wavelets Bands Explorer.vi"/>
+		<Item Name="Registration with Fourier Mellin Transform.vi" Type="VI" URL="../Experiments/Image Registration/Registration with Fourier Mellin Transform.vi"/>
+		<Item Name="Edge Detection with Wavelets.vi" Type="VI" URL="../Experiments/Image Edge Detection/Edge Detection with Wavelets.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Error Cluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/Build Error Cluster__ogtk.vi"/>
